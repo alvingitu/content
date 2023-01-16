@@ -133,6 +133,15 @@ For example, the language menu on this site (MDN) includes a **`lang`** attribut
   </ul>
 </div>
 ```
+<!DOCTYPE html>
+<html lang="en">
+  </head>
+  <title>hello, world</title>
+  </head>
+  <body>
+  hello , world
+  </body>
+  </html>
 
 ## Specifications
 
